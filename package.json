@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^6.7.2",
+    "eslint": "^9.32.0",
     "lint": "eslint src/js"
   },
   "dependencies": {
